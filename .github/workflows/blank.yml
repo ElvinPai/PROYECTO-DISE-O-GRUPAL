@@ -1,0 +1,11 @@
+name: Prueba básica
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Mensaje
+      run: echo "Todo funciona correctamente"
