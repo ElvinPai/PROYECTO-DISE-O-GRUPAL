@@ -1,1 +1,6 @@
-# PROYECTO-DISE-O-GRUPAL
+# Proyecto colaborativo
+
+Integrantes:
+- Elvin Paulino
+- Juan Pérez (simulado)
+- María López (simulado)
